@@ -4,7 +4,7 @@ export const mockDataTeam = [
   {
     id: 1,
     name: "Level 1",
-    score: "DB",
+    score: "DB", 
     Success: ""
   },
   {
